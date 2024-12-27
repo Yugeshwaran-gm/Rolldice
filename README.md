@@ -1,5 +1,3 @@
-Based on the project files you've provided, here's a tailored README file for your simple dice roller application:
-
 ---
 
 # Dice Roller Application  
@@ -46,5 +44,3 @@ dice-roller-application/
 This project is free to use for personal and educational purposes.  
 
 ---
-
-Let me know if you’d like to add or modify any sections!
