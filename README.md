@@ -1,5 +1,3 @@
----
-
 # Dice Roller Application  
 
 ## Project Description  
